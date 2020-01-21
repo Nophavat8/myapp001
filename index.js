@@ -1,5 +1,6 @@
 /**
  * @format
+ * nophavat sagnemanee
  */
 
 import {AppRegistry} from 'react-native';
